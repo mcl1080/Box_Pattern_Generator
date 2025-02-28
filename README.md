@@ -50,7 +50,7 @@ Flap length: 20.0mm
 Enter filename (default: box.svg): my_custom_box.svg
 
 SVG file 'my_custom_box.svg' has been created successfully.
-Total dimensions: 264.0mm × 154.0mm
+Total dimensions: 278.0mm × 158.0mm
 ```
 
 ## Parameters
