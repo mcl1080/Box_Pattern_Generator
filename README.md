@@ -1,6 +1,6 @@
 # Box Template Generator
 
-A Python tool for creating SVG templates for custom-sized cardboard/paperboard boxes. This generator produces a cutting pattern that can be folded into a complete box.
+A Python tool for creating SVG templates for custom-sized cardboard/paperboard boxes. This generator produces a cutting pattern that can be folded into a complete box. Cut the black lines, fold the green lines.
 
 ## Features
 
@@ -66,8 +66,8 @@ Total dimensions: 264.0mm × 154.0mm
 The script generates an SVG file with:
 
 - A complete cutting template for a box with tabs and flaps
-- Length sides have extended tabs for better structural integrity
-- A tapered closure flap
+- Length sides have extended tabs for closure clearance
+- A tapered flap to glue the box closed
 - Green highlights on lines that overlap (folding guide)
 - Dimensions adjusted to ensure the internal box size matches your requirements
 
