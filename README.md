@@ -26,10 +26,9 @@ Run the script and follow the prompts:
 ```
 $ python Box_Pattern.py
 
-Enhanced Box SVG Generator with Partial Overlap Detection
+Box SVG Generator
 ============================================================
 Note: Enter the INTERNAL dimensions of your desired box
-The generator will automatically determine which dimension is which:
 You can use 'mm', 'cm', or 'in' units (default is mm if no unit specified)
 ------------------------------------------------------------
 
